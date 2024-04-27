@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bc2e2415-164d-45a5-9a4a-29d9264a343e/resourceGroups/rpay-app-rg/providers/Microsoft.Web/sites/product-search-bot-app",
+    "appService.deploySubpath": "."
+}

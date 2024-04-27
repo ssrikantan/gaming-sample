@@ -1,0 +1,4 @@
+openai==1.11.1
+botbuilder-integration-aiohttp>=4.14.0
+pyodbc
+atlassian-python-api
